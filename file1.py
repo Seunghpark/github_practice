@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 print('Hello World')
-#comment from main branch
+#comment from test branch
